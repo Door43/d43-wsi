@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wsi:home|Door43 (wsi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wsi|d43-wsi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wsi/archive/master.zip|d43-wsi.zip]]
+
+**Recent Changes**
+{{changes>ns = wsi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wsi|Ethnologue data]]
+
